@@ -49,4 +49,5 @@ To use this package, you need SpaceClaim version 2016 (R 17.1) or later.
    * Minimize the SpaceClaim window during the script running. 
    
 
+for further information or question please contact yuefeng.qiu@kit.edu. 
    
