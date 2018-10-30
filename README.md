@@ -15,7 +15,7 @@ This package contains three main items
 ********Installation and useage********  
 To use this package, you need SpaceClaim version 2016 (R 17.1) or later.
 
-* Unzip the package to a folder, here brief as $MCCAD. 
+* Download the package in to a folder, here brief as $MCCAD. 
    * Please noted that the folder name of any upper level folder should NOT start with character "t" and "n" due to python linguistics. 
    
    * For example, folder "D:\tomorrow\now" is a bad folder to place this package. 
